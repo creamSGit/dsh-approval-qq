@@ -29,9 +29,11 @@ DeepSeek Harness 插件：把审批弹窗转发到 QQ，通过 OneBot v11 在手
 使用步骤
 
 装（三选一）：
-bash
+
 dsh plugin add dsh-approval-qq                      # npm（若已发布）
+
 dsh plugin add github:<用户名>/dsh-approval-qq      # GitHub
+
 dsh plugin add file:C:\path\dsh-approval-qq         # 本地目录
 
 重启 DSH；
